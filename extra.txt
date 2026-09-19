@@ -1,3 +1,0 @@
-
-mongodb+srv://auth-server:Sc6gC0nmv6AMmniH@auth.zg61ts9.mongodb.net/
-mongodb+srv://auth-server:Sc6gC0nmv6AMmniH@auth.zg61ts9.mongodb.net/
